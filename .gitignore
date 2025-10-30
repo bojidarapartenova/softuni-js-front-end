@@ -1,0 +1,42 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files on macOS
+Icon?
+._*
+
+# VS Code settings
+.vscode/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+.cache/
+coverage/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Environment files (if any)
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
